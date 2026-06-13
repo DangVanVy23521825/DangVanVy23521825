@@ -108,7 +108,7 @@ Fine-tuned model available on Hugging Face Hub:
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/vy-dang-372b59292"><img src="https://img.shields.io/badge/LinkedIn-Vy%20Dang-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vỹ-đặng-372b59292"><img src="https://img.shields.io/badge/LinkedIn-Vy%20Dang-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/DangVanVy23521825"><img src="https://img.shields.io/badge/GitHub-DangVanVy23521825-181717?style=flat&logo=github"/></a>
   <a href="https://huggingface.co/dangvanvy"><img src="https://img.shields.io/badge/HuggingFace-dangvanvy-FFD21E?style=flat&logo=huggingface&logoColor=black"/></a>
   <a href="mailto:dangvanvy112@gmail.com"><img src="https://img.shields.io/badge/Gmail-dangvanvy112-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
