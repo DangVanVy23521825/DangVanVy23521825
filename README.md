@@ -74,7 +74,6 @@
 
 **MLOps & Tools**
 
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![PEFT](https://img.shields.io/badge/PEFT%2FQLoRA-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
