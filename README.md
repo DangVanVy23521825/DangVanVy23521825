@@ -92,7 +92,6 @@
 | [📰 TheGuardianProject](https://github.com/DangVanVy23521825/TheGuardianProject) | End-to-end Data Engineering pipeline for The Guardian — automated ingestion, transformation & analytics with a semantic retrieval chatbot | Airflow, dbt, PostgreSQL |
 | [🐦 Twitter Sentiment Analysis](https://github.com/DangVanVy23521825/Twitter-Sentiment-Analysis) | Multi-model sentiment classifier (RoBERTa, Twitter-RoBERTa, SVM) served via Flask web app | PyTorch, Transformers, Flask, scikit-learn |
 | [🚗 Occluded-Object-Restoration](https://github.com/DangVanVy23521825/Occluded-Object-Restoration-CarsFocus) | Image inpainting for occluded vehicles — reconstructing missing regions with global structural & textural coherence | Python, CV, Deep Learning |
-| [📈 Market-Analysis-Agent](https://github.com/DangVanVy23521825/Market-Analysis-Agent) | Agentic system for automated market analysis and insights generation | LangGraph, Python |
 
 ---
 
